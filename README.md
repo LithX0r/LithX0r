@@ -5,3 +5,6 @@ Hi, i'm a 20 year old computer science student living in Austria. I'm currently 
 ## Fields im interested in: 
 - Cybersecurity (mainly through CTFs)
 - Digital audio processing 
+
+## Current projects:
+- Advent of Code
