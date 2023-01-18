@@ -7,4 +7,4 @@ Hi, i'm a 20 year old computer science student living in Austria. I'm currently 
 - Digital audio processing 
 
 ## Current projects:
-- Advent of Code
+- currently none
